@@ -18,7 +18,8 @@
 //       </div>
 //       <h1>Vite + React</h1>
 //       <div className="card">
-//         <button onClick={() => setCount((count) => count + 1)}>
+//         <buttnpm install tailwindcss @tailwindcss/vitenpm install tailwindcss @tailwindcss/vitenpm install tailwindcss @tailwindcss/vite
+// on onClick={() => setCount((count) => count + 1)}>
 //           count is {count}
 //         </button>
 //         <p>
@@ -38,9 +39,9 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div className='flex:center'>
-      <h1 style={{color:'red', textAlign:'center'}}>I am here to meet</h1>
-    </div>
+<div className='color:red'>
+  <h1 >I am here to learn</h1>
+</div>
   )
 }
 
