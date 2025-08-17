@@ -1,11 +1,11 @@
 import React from 'react'
 
-const App = () => {
+const LayoutOne = () => {
   return (
     <div>
-      git
+      
     </div>
   )
 }
 
-export default App
+export default LayoutOne
